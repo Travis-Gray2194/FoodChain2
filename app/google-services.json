@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "538006147742",
+    "firebase_url": "https://foodchain-travisg.firebaseio.com",
+    "project_id": "foodchain-travisg",
+    "storage_bucket": "foodchain-travisg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538006147742:android:87226cf6967acc45",
+        "android_client_info": {
+          "package_name": "com.travisgray.foodchain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538006147742-jfan2velocbclussjnadl9oipvgbc7m3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.travisgray.foodchain",
+            "certificate_hash": "57d354cee0045b54a996480276701982ac4ea75c"
+          }
+        },
+        {
+          "client_id": "538006147742-9kk1afv9smj2ck3p38mt05389qsbp4o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA61Qjl3z-ZI8lX_ofofvcgeAUO9OguIZo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538006147742-9kk1afv9smj2ck3p38mt05389qsbp4o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

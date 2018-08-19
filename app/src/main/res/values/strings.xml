@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FoodChain</string>
+    <string name="slogan">Order online from local co-ops and farms!
+    </string>
+    <string name="slogan2">EBT SNAP food delivery and EBT Food payment is just a click away.
+    </string>
+    <string name="foodchainlogo">Food Chain
+    </string>
+</resources>
