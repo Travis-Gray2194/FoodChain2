@@ -6,4 +6,8 @@
     </string>
     <string name="foodchainlogo">Food Chain
     </string>
+    <string name="btnSignUpText">Sign Up
+    </string>
+    <string name="btnSignInText">Sign In
+    </string>
 </resources>
